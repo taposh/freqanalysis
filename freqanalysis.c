@@ -1,3 +1,8 @@
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Main program
+author: Taposh Dutta Roy - dutttap@iit.edu
+creation date: Wednesday, August 25, 2004
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 
 #include <stdio.h>
 #include <stdlib.h>
